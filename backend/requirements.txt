@@ -7,3 +7,4 @@ xgboost
 ta
 requests
 gunicorn
+nltk
